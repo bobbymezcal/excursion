@@ -1,13 +1,14 @@
 body  {
     font-family: Verdana, sans-serif;
     font-weight: normal;
+    background-color: black;
+    text-align: center;
 }
 
 h1 {
     font-size: 50px;
     font-weight: bold;
     color: white;
-    text-align: center;
 }
 
 a {
